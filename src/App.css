@@ -1,0 +1,36 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+Button {
+  background-color: black !important;
+  border-radius: 25px !important; 
+}
+a{
+  text-decoration: none !important;
+  color: white !important;
+}
+
+label{
+  margin-left: 13px;
+  height: 60px ;
+  text-align: right;
+}
+.rr{
+  width: 80%;
+  margin-left: 300px !important;
+
+}
+.tablet{
+  border: 1px solid black;
+  background-color: beige;
+  margin-top: 50px;
+  width: 40% !important;
+}
+.mi{
+  margin-bottom: 20px;
+}
+.di{
+  margin-left: 70px;
+}
